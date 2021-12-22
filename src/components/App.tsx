@@ -7,7 +7,7 @@ const App = () => {
     return (
         <Provider store={store}>
             <div><h1>Search NPM Package</h1></div>
-            <RepositoriesList />
+             <RepositoriesList />
         </Provider>
     )
 }
